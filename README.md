@@ -11,7 +11,7 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 
 ---
 
-### 🧰 Technologies Used
+## 🧰 Technologies Used
 
 <p align="middle">
 <img align="middle" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -40,7 +40,7 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 
 ---
 
-### 👨‍💻 Skills & Interests
+## 👨‍💻 Skills & Interests
 
 - Learning C++ to develop Windows, Linux & Android Applications.
 - Interest in Web Development & webGL.
@@ -48,7 +48,7 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 
 ---
 
-### 📊 Stats
+## 📊 Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MAHADxP&theme=tokyonight_duo&hide_border=true&background=282828)](https://git.io/streak-stats)
 
