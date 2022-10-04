@@ -52,3 +52,6 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MAHADxP&theme=tokyonight_duo&hide_border=true&background=282828)](https://git.io/streak-stats)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
