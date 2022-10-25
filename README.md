@@ -1,5 +1,5 @@
 <p align="middle">
-<a href="https://github.com/mahhad"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=MAHADxP&style=flat-circle" width="125"/></a>
+<a href="https://github.com/mahhad"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=mahhad&style=flat-circle" width="125"/></a>
 
 ---
 
@@ -50,7 +50,7 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 
 ## 📊 Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MAHADxP&theme=tokyonight_duo&hide_border=true&background=282828)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahhad&theme=tokyonight_duo&hide_border=true&background=282828)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
