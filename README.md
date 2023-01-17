@@ -34,7 +34,7 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 ---
 
 ## 🤔Currently Working on
-- Intel 8088 Assembly Langauge.
+- NASM Assembly Langauge.
 - Advance concepts of C++.
 - ADT implementation of data structures in C++.
 - Building a modern desktop from scratch (NAND to TETRIS)
