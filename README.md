@@ -9,21 +9,6 @@
 ---
 My name is Mahad, I am a computer science student who is learning & Experimenting with new technologies. I love problem solving & I choose programming because programming is all about real world problem solving. Right now I am learning & Experimenting new things.
 
----
-
-## 🧰 Technologies Used
-
-<p align="middle">
-<img align="middle" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="middle" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="middle" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="middle" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="middle" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="middle" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="middle" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="middle" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-</p>
 
 ---
 
@@ -48,6 +33,13 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 
 ---
 
+## 🤔Currently Working on
+- Intel 8088 Assembly Langauge.
+- Advance concepts of C++.
+- ADT implementation of data structures in C++.
+- Building a modern desktop from scratch (NAND to TETRIS)
+
+---
 ## 📊 Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DrMahad&theme=tokyonight_duo&hide_border=true&background=282828)](https://git.io/streak-stats)
