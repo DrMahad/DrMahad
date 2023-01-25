@@ -40,9 +40,7 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 - Building a modern desktop from scratch (NAND to TETRIS)
 
 ---
-## 📊 Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DrMahad&theme=tokyonight_duo&hide_border=true&background=282828)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
