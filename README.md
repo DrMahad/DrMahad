@@ -35,9 +35,12 @@ My name is Mahad, I am a computer science student who is learning & Experimentin
 
 ## 🤔Currently Working on
 - NASM Assembly Langauge.
+- Learning about Databases & ASP.net.
+- Learning how OS works.
+- Learning Different Algorithms & their Proofs.
+- Learning Probability & Statistics.
 - Advance concepts of C++.
 - ADT implementation of data structures in C++.
-- Building a modern desktop from scratch (NAND to TETRIS)
 
 ---
 
